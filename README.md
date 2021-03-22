@@ -1,11 +1,20 @@
 # ArchitectureOfGrammar
 Seminar at UPotsdam, WS 2020/21
 
+Zoom link for the meetings:
+
+https://us02web.zoom.us/j/85218894336?pwd=VDArUUJEcDNUcitrU01JQWs4WmU2dz09
+
 Link to the references:
 
 https://www.zotero.org/groups/2853530/class-structureofgrammar-upotsdam-2021/library
 
-## Blockseminar: The architecture of grammar
+Related research project at ZAS:
+
+https://leibnizdream.eu
+
+## Description of Blockseminar: The architecture of grammar
+
 Architectural considerations played a big role in linguistic research in the 1970s (e.g. work by Chomsky, Jackendoff, and Montague), but less since.  The goal of the seminar is to develop a critical understanding of both the classical arguments and more recent work bearing on the matter.  We introduce a rough division between syntax-based, usage-based, and meaning-based conceptions of grammar, but focus on concrete empirical arguments that can distinguish between these.
 
 The architecture of grammar
