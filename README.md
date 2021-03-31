@@ -7,7 +7,7 @@ https://us02web.zoom.us/---
 
 Link to the references:
 
-https://www.zotero.org/groups/2853530/class-structureofgrammar-upotsdam-2021/library
+https://www.zotero.org/groups/---
 
 Related research project at ZAS:
 
