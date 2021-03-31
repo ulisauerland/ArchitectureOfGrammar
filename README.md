@@ -3,7 +3,7 @@ Seminar at UPotsdam, WS 2020/21
 
 Zoom link for the meetings:
 
-https://us02web.zoom.us/j/85218894336?pwd=VDArUUJEcDNUcitrU01JQWs4WmU2dz09
+https://us02web.zoom.us/---
 
 Link to the references:
 
