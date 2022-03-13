@@ -7,7 +7,7 @@ https://us02web.zoom.us/j/81457403492?pwd=QlhrVFp1Q2Jyd3lkNjdRU0t0RHRKQT09
 
 Link to the references:
 
-https://www.zotero.org/groups/---
+https://www.zotero.org/groups/2853530/class-structureofgrammar-upotsdam-2021/library
 
 Related research project at ZAS:
 
@@ -34,9 +34,9 @@ term paper by 30.09.2022
 
 ### Monday: Historical Perspectives
 
-Partee, Barbara H. 2015. “The Garden of Eden Period for Deep Structure and Semantics.” [http://filcat.uab.cat/clt/publicacions/Aspects-50-years-later/Aspects/19%20-%20Partee_web.pdf]
+Partee, Barbara H. 2015. “The Garden of Eden Period for Deep Structure and Semantics.” http://filcat.uab.cat/clt/publicacions/Aspects-50-years-later/Aspects/19%20-%20Partee_web.pdf
 
-Fodor, Jerry A. 1970. “Three Reasons for Not Deriving ‘Kill’ from ‘Cause to Die,’” Linguistic Inquiry 11.
+Fodor, Jerry A. 1970. “Three Reasons for Not Deriving ‘Kill’ from ‘Cause to Die,’” Linguistic Inquiry 11. https://www.jstor.org/stable/4177587
 
 Further Reading:
 
