@@ -79,7 +79,7 @@ Further reading:
 
 Chierchia, Gennaro. 2013. Logic in grammar: Polarity, free choice, and intervention. Oxford, UK: Oxford University Press.
 
-### Thursday: Economy and Efficiency
+### Friday: Economy and Efficiency
 
 Meyer, Marie-Christine. 2015. Redundancy and embedded exhaustification. In S. D’Antonio, M. Moroney & C.R. Little (eds.), Semantics and Linguistic Theory (SALT) XXV, 491–511. doi: 10.3765/salt.v25i0.3486.
 
