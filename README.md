@@ -1,36 +1,32 @@
 # ArchitectureOfGrammar
-Seminar at UPotsdam, WS 2021/22
+Seminar at UPotsdam, WS 2022/23
 
-Zoom link for the meetings:
+Zoom link for the meetings (with waiting room):
 
-https://us02web.zoom.us/j/81457403492?pwd=QlhrVFp1Q2Jyd3lkNjdRU0t0RHRKQT09
+https://us02web.zoom.us/j/8440941017
 
 Link to the references:
 
 https://www.zotero.org/groups/2853530/class-structureofgrammar-upotsdam-2021/library
-
-Related research project at ZAS:
-
-https://leibnizdream.eu
 
 ## Description of Blockseminar: The architecture of grammar
 
 Architectural considerations played a big role in linguistic research in the 1970s (e.g. work by Chomsky, Jackendoff, and Montague), but less since.  The goal of the seminar is to develop a critical understanding of both the classical arguments and more recent work bearing on the matter.  We introduce a rough division between syntax-based, usage-based, and meaning-based conceptions of grammar, but focus on concrete empirical arguments that can distinguish between these.
 
 The architecture of grammar
-March 14 to 18, 2021, every day 9:30 to 13:00
+March 20 to 24, 2023, every day 9:30 to about 13:30
 
 MSc Linguistics, MM2, MM3, MM7
 
 written take-home exam on Friday, due within one week
 ### optional add-on
 
-Current Research in the LeibnizDream Project
-March 22 to 26, 2021, every day 14:00 to 15:30
+Current research on the structure of grammar
+March 20 to 24, 2023, officially every day 9:30 to 16:30
 
 The LeibnizDream project at ZAS develops a novel view of the architecture of grammar.  The primary source of evidence used is date from many different child languages we collect together with 50 collaborators all over the globe. The project targets six central areas of syntactic and semantic research.  In this seminar, advanced students can discuss with researchers of ZAS to develop a research paper in the area of the course.  This seminar is only open to students attending also the ~~"The Syntax-Semantics Interface"~~ "The Architecture of Grammar" course.
 
-term paper by 30.09.2022 
+additional written take-home exam on Friday, due within one week
 
 ### Monday: Historical Perspectives
 
@@ -42,11 +38,12 @@ Further Reading:
 
 Chomsky, Noam. 1972. Studies on Semantics in Generative Grammar. Berlin, Boston: De Gruyter. https://doi.org/10.1515/9783110867589-004.
 
+Harris, R.A., 2021. The Linguistics Wars: Chomsky, Lakoff, and the Battle over Deep Structure, 2nd ed. Oxford University Press. https://doi.org/10.1093/oso/9780199740338.001.0001
+
 Montague, Richard. 1970. “Universal Grammar.” Theoria 36 (3): 373–98. https://doi.org/10.1111/j.1755-2567.1970.tb00434.x.
 
 Musgrave, Alan and Charles Pigden, "Imre Lakatos", The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/lakatos/>.
 (especially section 2.2)
-
 
 
 ### Tuesday: Distributed Morphology, Logicality
