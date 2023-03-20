@@ -19,14 +19,17 @@ March 20 to 24, 2023, every day 9:30 to about 13:30
 MSc Linguistics, MM2, MM3, MM7
 
 written take-home exam on Friday, due within one week
-### optional add-on
+### second class
 
 Current research on the structure of grammar
-March 20 to 24, 2023, officially every day 9:30 to 16:30
+March 20 to 24, 2023, officially every day 9:30 to 16:30 
 
 The LeibnizDream project at ZAS develops a novel view of the architecture of grammar.  The primary source of evidence used is date from many different child languages we collect together with 50 collaborators all over the globe. The project targets six central areas of syntactic and semantic research.  In this seminar, advanced students can discuss with researchers of ZAS to develop a research paper in the area of the course.  This seminar is only open to students attending also the ~~"The Syntax-Semantics Interface"~~ "The Architecture of Grammar" course.
 
 additional written take-home exam on Friday, due within one week
+
+MSc Linguistics, MM2, MM3, MM7
+
 
 ### Monday: Historical Perspectives
 
