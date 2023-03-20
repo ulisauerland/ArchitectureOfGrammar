@@ -33,7 +33,8 @@ MSc Linguistics, MM2, MM3, MM7
 
 ### Monday: Historical Perspectives
 
-Partee, Barbara H. 2015. “The Garden of Eden Period for Deep Structure and Semantics.” http://filcat.uab.cat/clt/publicacions/Aspects-50-years-later/Aspects/19%20-%20Partee_web.pdf
+Partee, Barbara H. 2015. “The Garden of Eden Period for Deep Structure and Semantics.”
+https://github.com/ulisauerland/ArchitectureOfGrammar/blob/main/Partee%20-%20The%20Garden%20of%20Eden%20Period%20for%20Deep%20Structure%20and%20S.pdf
 
 Fodor, Jerry A. 1970. “Three Reasons for Not Deriving ‘Kill’ from ‘Cause to Die,’” Linguistic Inquiry 11. https://www.jstor.org/stable/4177587
 
