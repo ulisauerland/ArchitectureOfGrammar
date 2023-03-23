@@ -82,6 +82,11 @@ Chierchia, Gennaro. 2013. Logic in grammar: Polarity, free choice, and intervent
 
 ### Friday: Economy and Efficiency
 
+Sauerland, U., Alexiadou, A., 2020. Generative Grammar: A Meaning First Approach. Front.
+Psychol. 11, 571295. https://doi.org/10.3389/fpsyg.2020.571295
+
+Further reading:
+
 Meyer, Marie-Christine. 2015. Redundancy and embedded exhaustification. In S. D’Antonio, M. Moroney & C.R. Little (eds.), Semantics and Linguistic Theory (SALT) XXV, 491–511. doi: 10.3765/salt.v25i0.3486.
 
 Sauerland, Uli. 2018. The thought uniqueness hypothesis. In Proceedings of SALT, vol. 28, 289–306. doi:10.3765/salt.v28i0.4414.
