@@ -3,7 +3,7 @@ DGfS Summerschool 2024 Göttingen, week 1, 16:00 - 17:30, room 3.104
 
 Link to the class site:
 
-URL = <https://github.com/ulisauerland/ArchitectureOfGrammar>
+[https://github.com/ulisauerland/ArchitectureOfGrammar](https://github.com/ulisauerland/ArchitectureOfGrammar)
 
 Link to the references:
 
