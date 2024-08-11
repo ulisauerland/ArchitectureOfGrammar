@@ -1,6 +1,10 @@
 # ArchitectureOfGrammar
 DGfS Summerschool 2024 Göttingen, week 1, 16:00 - 17:30, room 3.104
 
+Link to the class site:
+
+https://github.com/ulisauerland/ArchitectureOfGrammar
+
 Link to the references:
 
 https://www.zotero.org/groups/5624088/class-architectureofgrammar/library
