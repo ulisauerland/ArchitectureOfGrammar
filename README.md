@@ -3,7 +3,7 @@ DGfS Summerschool 2024 Göttingen, week 1, 16:00 - 17:30, room 3.104
 
 Link to the class site:
 
-https://github.com/ulisauerland/ArchitectureOfGrammar
+URL = <https://github.com/ulisauerland/ArchitectureOfGrammar>
 
 Link to the references:
 
@@ -32,7 +32,7 @@ Harris, R.A., 2021. The Linguistics Wars: Chomsky, Lakoff, and the Battle over D
 
 Montague, Richard. 1970. “Universal Grammar.” Theoria 36 (3): 373–98. https://doi.org/10.1111/j.1755-2567.1970.tb00434.x.
 
-Musgrave, Alan and Charles Pigden, "Imre Lakatos", The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/lakatos/>.
+Musgrave, Alan and Charles Pigden, "Imre Lakatos", The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.), https://plato.stanford.edu/archives/win2016/entries/lakatos/.
 (especially section 2.2)
 
 
