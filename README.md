@@ -47,7 +47,7 @@ Further Reading:
 Marantz, Alec. (1995). “Cat” as a phrasal idiom. Unpublished manuscript, MIT, Cambridge, MA.
 
 
-### Wednesday: Overt vs. Covert Movement
+### Wednesday: Scopal Movement
 
 Fox, Danny. 2003. “On Logical Form.” In Minimalist Syntax, 82–123. John Wiley & Sons, Ltd. https://doi.org/10.1002/9780470758342.ch2.
 
@@ -60,24 +60,33 @@ Fox, Danny. 2000. Economy and Semantic Interpretation. Linguistic Inquiry Monogr
 Fox, Danny, and Jon Nissenbaum. 1999. “Extraposition and Scope: A Case for Overt QR.” In Proceedings of WCCFL 18, edited by S. Bird and others, 132–44. Somerville, Mass.: Cascadilla Press.
 
 
-### Thursday: Logicality
+### Thursday: Effability
 
-Gajewski, Jon. 2002. On analyticity in natural language. Unpublished manuscript.
-
-Del Pinal, Guillermo. 2019. The logicality of language: A new take on triviality, “ungrammaticality”, and logical form. Nous 53. 785–818. doi:10.1111/nous.12235.
-
-Further reading:
-
-Chierchia, Gennaro. 2013. Logic in grammar: Polarity, free choice, and intervention. Oxford, UK: Oxford University Press.
-
-### Friday: Economy and Efficiency
-
-Sauerland, U., Alexiadou, A., 2020. Generative Grammar: A Meaning First Approach. Front.
-Psychol. 11, 571295. https://doi.org/10.3389/fpsyg.2020.571295
-
-Further reading:
-
-Meyer, Marie-Christine. 2015. Redundancy and embedded exhaustification. In S. D’Antonio, M. Moroney & C.R. Little (eds.), Semantics and Linguistic Theory (SALT) XXV, 491–511. doi: 10.3765/salt.v25i0.3486.
+Elliott, Patrick D., and Uli Sauerland. 2019. “Ineffability and Unexhaustification.” Proceedings of Sinn Und Bedeutung 23 (1): 399–412. https://doi.org/10.18148/sub/2019.v23i1.540.
 
 Sauerland, Uli. 2018. The thought uniqueness hypothesis. In Proceedings of SALT, vol. 28, 289–306. doi:10.3765/salt.v28i0.4414.
 
+Further Reading:
+
+Elliott, Patrick D., Andreea C. Nicolae, and Uli Sauerland. 2022. “Who and What Do Who and What Range over Cross-Linguistically?” Journal of Semantics 39 (3): 551–79. https://doi.org/10.1093/jos/ffac008.
+
+
+### Friday: open
+
+### Further readings:
+
+Gajewski, Jon. 2002. On analyticity in natural language. Unpublished manuscript.
+
+Guasti, Maria Teresa, Artemis Alexiadou, and Uli Sauerland. 2023. “Undercompression Errors as Evidence for Conceptual Primitives.” Frontiers in Psychology 14. https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1104930.
+
+
+Del Pinal, Guillermo. 2019. The logicality of language: A new take on triviality, “ungrammaticality”, and logical form. Nous 53. 785–818. doi:10.1111/nous.12235.
+
+
+Chierchia, Gennaro. 2013. Logic in grammar: Polarity, free choice, and intervention. Oxford, UK: Oxford University Press.
+
+
+Meyer, Marie-Christine. 2015. Redundancy and embedded exhaustification. In S. D’Antonio, M. Moroney & C.R. Little (eds.), Semantics and Linguistic Theory (SALT) XXV, 491–511. doi: 10.3765/salt.v25i0.3486.
+
+Sauerland, U., Alexiadou, A., 2020. Generative Grammar: A Meaning First Approach. Front.
+Psychol. 11, 571295. https://doi.org/10.3389/fpsyg.2020.571295
