@@ -30,8 +30,6 @@ https://github.com/ulisauerland/ArchitectureOfGrammar/blob/main/Partee%20-%20The
 
 Fodor, Jerry A. 1970. “Three Reasons for Not Deriving ‘Kill’ from ‘Cause to Die,’” Linguistic Inquiry 11. https://www.jstor.org/stable/4177587
 
-Further Reading:
-
 Chomsky, Noam. 1972. Studies on Semantics in Generative Grammar. Berlin, Boston: De Gruyter. https://doi.org/10.1515/9783110867589-004.
 
 Fedorenko, Evelina, Steven T. Piantadosi, and Edward A. F. Gibson. 2024. “Language Is Primarily a Tool for Communication Rather than Thought.” Nature 630 (8017): 575–86. https://doi.org/10.1038/s41586-024-07522-w.
@@ -43,27 +41,28 @@ Montague, Richard. 1970. “Universal Grammar.” Theoria 36 (3): 373–98. http
 Musgrave, Alan and Charles Pigden, "Imre Lakatos", The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.), https://plato.stanford.edu/archives/win2016/entries/lakatos/.
 (especially section 2.2)
 
+Sauerland, U., Alexiadou, A., 2020. Generative Grammar: A Meaning First Approach. Front.
+Psychol. 11, 571295. https://doi.org/10.3389/fpsyg.2020.571295
+
+
 ### Structure Building
 
 Bobaljik, Jonathan D. 2017. “Distributed Morphology.” Oxford Research Encyclopedia of Linguistics. March 29, 2017. https://doi.org/10.1093/acrefore/9780199384655.013.131.
 
 Everaert, Martin B. H., Marinus A. C. Huybregts, Noam Chomsky, Robert C. Berwick, and Johan J. Bolhuis. 2015. “Structures, Not Strings: Linguistics as Part of the Cognitive Sciences.” Trends in Cognitive Sciences 19 (12): 729–43. https://doi.org/10.1016/j.tics.2015.09.008.
 
-Further Reading:
-
 Marantz, Alec. (1995). “Cat” as a phrasal idiom. Unpublished manuscript, MIT, Cambridge, MA.
 
-### Scopal Movement
+Elbourne, Paul. 2024. A Program for Eliminating Syntactic Categories. Linguistic Inquiry 1–38. DOI: https://doi.org/10.1162/ling_a_00540
 
-Fox, Danny. 2003. “On Logical Form.” In Minimalist Syntax, 82–123. John Wiley & Sons, Ltd. https://doi.org/10.1002/9780470758342.ch2.
+
+### Movement
 
 Fox, Danny. 2017. “Embedded Late Merge and the Theory of Displacement.” LingBuzz. https://ling.auf.net/lingbuzz/003429.
 
-Further Reading:
-
-Fox, Danny. 2000. Economy and Semantic Interpretation. Linguistic Inquiry Monographs 35. Cambridge, Mass: MIT Press.
-
 Fox, Danny, and Jon Nissenbaum. 1999. “Extraposition and Scope: A Case for Overt QR.” In Proceedings of WCCFL 18, edited by S. Bird and others, 132–44. Somerville, Mass.: Cascadilla Press.
+
+Sauerland, Uli. 2004. The Interpretation of Traces. Natural Language Semantics 12(1). 63–127. DOI: https://doi.org/10.1023/B:NALS.0000011201.91994.4f
 
 
 ### Effability
@@ -72,12 +71,11 @@ Elliott, Patrick D., and Uli Sauerland. 2019. “Ineffability and Unexhaustifica
 
 Sauerland, Uli. 2018. The thought uniqueness hypothesis. In Proceedings of SALT, vol. 28, 289–306. doi:10.3765/salt.v28i0.4414.
 
-Further Reading:
-
 Elliott, Patrick D., Andreea C. Nicolae, and Uli Sauerland. 2022. “Who and What Do Who and What Range over Cross-Linguistically?” Journal of Semantics 39 (3): 551–79. https://doi.org/10.1093/jos/ffac008.
 
+Fox, Danny. 2000. Economy and Semantic Interpretation. Linguistic Inquiry Monographs 35. Cambridge, Mass: MIT Press.
 
-### Further readings:
+### Other
 
 Gajewski, Jon. 2002. On analyticity in natural language. Unpublished manuscript.
 
@@ -88,6 +86,3 @@ Del Pinal, Guillermo. 2019. The logicality of language: A new take on triviality
 Chierchia, Gennaro. 2013. Logic in grammar: Polarity, free choice, and intervention. Oxford, UK: Oxford University Press.
 
 Meyer, Marie-Christine. 2015. Redundancy and embedded exhaustification. In S. D’Antonio, M. Moroney & C.R. Little (eds.), Semantics and Linguistic Theory (SALT) XXV, 491–511. doi: 10.3765/salt.v25i0.3486.
-
-Sauerland, U., Alexiadou, A., 2020. Generative Grammar: A Meaning First Approach. Front.
-Psychol. 11, 571295. https://doi.org/10.3389/fpsyg.2020.571295
